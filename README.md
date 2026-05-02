@@ -1,5 +1,7 @@
 # Xiaomi Cloud Location for Home Assistant
 
+[中文说明](README_zh.md)
+
 Track Xiaomi phones and family members' devices via Xiaomi Cloud Find Device API.
 
 ## Features
