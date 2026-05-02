@@ -4,7 +4,7 @@
         "step": {
             "user": {
                 "title": "小米云服务",
-                "description": "如果您需要配置方面的帮助，请查看此处: https://github.com/fineemb/xiaomi-cloud",
+                "description": "输入您的小米账号信息。",
                 "data": {
                     "password": "密码",
                     "username": "账号"

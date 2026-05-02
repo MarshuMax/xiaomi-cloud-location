@@ -1,8 +1,5 @@
 """
-Component to integrate with Xiaomi Cloud (Find Device + Family Location).
-
-Fork of fineemb/xiaomi-cloud with HA 2026.x compatibility fixes,
-v3 API support (family devices), and GCJ2WGS coordinate correction.
+Xiaomi Cloud device tracking integration with family group support.
 
 For more details:
 https://github.com/MarshuMax/xiaomi-cloud-location
